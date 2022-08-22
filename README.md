@@ -23,3 +23,19 @@ AI: Beim Telefonieren stellt das Handy eine Funkverbindung mit der nächsten Bas
 #### Dabei sollte das Vosk Modell in dem "Vosk" Ordner liegen. 
 
 ## Nach dieser Einleitung könnt ihr euren Open AI Key und eure Beispiele eintragen und loslegen!🚀
+
+Hier ist noch ein "Gespräch", welches ich mit der AI hatte:
+
+```
+Person:wann ist deutschland entstanden
+
+AI: Deutschland ist am 18. Januar 1871 entstanden.
+
+Person:was ist spotify
+
+AI:Spotify ist ein digitaler Musikdienst, der dir Zugriff auf Millionen von Songs ermöglicht. Du kannst Musikstreaming über die Spotify-App auf deinem Mobilgerät oder Computer genießen.
+
+Person:wer ist der reichste mensch der welt
+
+AI:Derzeit wird Jeff Bezos, Gründer und CEO von Amazon, als der reichste Mensch der Welt gehandelt. Sein Vermögen wird auf rund 150 Mrd. US-Dollar geschätzt.
+```
